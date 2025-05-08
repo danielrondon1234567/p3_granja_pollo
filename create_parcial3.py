@@ -1,3 +1,6 @@
+from base_datos
+
+
 class pollo:
   #metodo de construtores
 def_int_(self,id.pollo):
